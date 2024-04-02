@@ -1,0 +1,31 @@
+/* p{
+    color: red;
+} */
+
+/* p ,div{
+    background-color: red;
+} */
+
+/* #mydiv > p{
+    color: red;
+}
+
+#mydiv p{
+    color: red;
+}
+
+input[class="myClass"][class="myClass"]{
+    background-color: red;
+}
+
+span{
+    color: red;
+} */
+
+/* p.myClass{
+    color: red;
+}
+
+div#mydiv{
+    background-color: red;
+} */
